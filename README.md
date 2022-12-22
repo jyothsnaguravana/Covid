@@ -36,5 +36,3 @@
       <dd>The request given by user is taken and given to model for processing output.The backend frameworks for python - aiml like <b>django</b> ,flask are used to complete this task.The result is again sent as response and displayed through http response.This can be deployed using various cloud services</dd>
       </dl></li>
 </ul>
-
-<h2>The result will be displayed like ..</h2>
